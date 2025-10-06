@@ -99,6 +99,14 @@ Open your **EC2 public IP** (or localhost if local machine) in a browser:
 ```
 http://<your-ec2-public-ip>
 ```
+---
+## Screenshots - With Code + Output
+
+CLI Through
+![My Docker Website](img/prac-02.png)
+
+OUTPUT
+![My Docker Website](img/pract-010-ans.png)
 
 ---
 
