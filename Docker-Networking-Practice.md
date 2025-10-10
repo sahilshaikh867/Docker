@@ -187,9 +187,24 @@ Once you get comfortable with bridge and host modes, you’ll be ready to handle
 📅 **Updated:** October 2025
 📘 **Topic:** Docker Networking (Hands-on Practice)
 
-```
 
----
+# Steps Which i done
+# AWS Running Services Check — Steps with Screenshots
 
-Would you like me to convert this `.md` file into a **downloadable Markdown file** (so you can upload it directly to GitHub or share it)?
-```
+1. Step 1 
+   ![Step 1](img/d1.png)
+
+2. Step 2
+   ![Step 2](img/d2.png)
+
+3. Step 3 
+   ![Step 3](img/d3.png)
+
+4. Step 4 
+   ![Step 4](img/d4.png)
+
+5. Step 5  
+   ![Step 5](img/d5.png)
+
+6. Step 6
+   ![Step 6](img/d6.png)
